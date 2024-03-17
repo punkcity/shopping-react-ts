@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name": "Samosa",
+    "price": 4.99,
+    "category": "Appetizer",
+    "imgurl": "./images/01_samosa.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Paapri Chaat",
+    "price": 7.99,
+    "category": "Appetizer",
+    "imgurl": "./images/02_paapri_chaat.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Idli Vadai Combo",
+    "price": 6.99,
+    "category": "Appetizer",
+    "imgurl": "./images/03_idli_vada.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Dosa",
+    "price": 9.99,
+    "category": "Appetizer",
+    "imgurl": "./images/04_dosa.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Garden Veg Salad",
+    "price": 8.5,
+    "category": "Main Course",
+    "imgurl": "./images/05_indian_salad.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Chilly Paneer",
+    "price": 14.9,
+    "category": "Main Course",
+    "imgurl": "./images/06_chilly_paneer.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Veg Biryani",
+    "price": 16.5,
+    "category": "Main Course",
+    "imgurl": "./images/07_veg_biryani.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Gulab Jamun",
+    "price": 5.99,
+    "category": "Dessert",
+    "imgurl": "./images/08_gulab_jamun.jpg"
+  }
+]
