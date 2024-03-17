@@ -2,6 +2,7 @@
 
 A general purpose shopping cart app that can be used for many purposes to add/remove items in cart.
 
+- V0.2 (3/17/2024): Fully Functional - Add/Remove to cart along with individual quanities displayed within item card.
 - V0.1 (3/17/2024): Initial UI ready with dynamic display on small and large screens. Horizontally shrunk screen will show only 1 item per row. As screen is enlarged, show max 3 items per row.
 
 ![Larger screen view](https://github.com/punkcity/shopping-react-ts/blob/main/public/V01_large.jpg)
